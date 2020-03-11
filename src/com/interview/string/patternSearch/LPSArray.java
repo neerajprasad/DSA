@@ -1,4 +1,4 @@
-package java.interview.string.patternSearch;
+package interview.string.patternSearch;
 
 public class LPSArray {
     public static void main(String[] args) {
