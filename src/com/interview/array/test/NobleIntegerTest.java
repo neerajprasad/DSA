@@ -41,6 +41,6 @@ class NobleIntegerTest {
     @Test
     void nobelValue3() {
         List<Integer> A = Arrays.asList(5,6,2);
-        assertEquals(nobleInteger.nobelValue(A),2);
+        assertEquals(nobleInteger.nobelValue(A),1);
     }
 }

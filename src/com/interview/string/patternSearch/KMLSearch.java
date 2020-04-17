@@ -49,6 +49,7 @@ public class KMLSearch {
         int len=0;
         lps[0]=0;
         int i=1;
+//        "cdcd"
         while(i<patternLength){
             if(pattern[i]==pattern[len] || pattern[i]=='*'){
                 len++;

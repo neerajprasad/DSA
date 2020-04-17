@@ -1,4 +1,4 @@
-package java.interview.string;
+package interview.string;
 
 public class MyAtoI {
     public static void main(String[] args) {

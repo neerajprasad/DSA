@@ -1,4 +1,4 @@
-package java.interview.thread.oddEven;
+package interview.thread.oddEven;
 
 public class EvenPrinter implements Runnable {
     private int maxValue;

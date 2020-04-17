@@ -1,4 +1,4 @@
-package java.interview.thread.oddEven;
+package interview.thread.oddEven;
 
 public class Printer {
     private boolean isEven=false;
